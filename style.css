@@ -54,7 +54,6 @@ body {
 .container p {
     font-style: italic;
     text-shadow: 2px 2px 2px #030303;
-    color: gray;
 }
 
 #displayResult {
